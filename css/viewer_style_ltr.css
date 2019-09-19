@@ -10,7 +10,7 @@
 }
 
 .modal-dialog,
-.jam-confirm-prompt {
+.jam-confirm-prompt {ss
     position: fixed;
     width: auto;
     z-index: 1202
